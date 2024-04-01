@@ -1,5 +1,3 @@
-# Pay Up Backend
-
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 
 <a name="readme-top"></a>
@@ -35,8 +33,8 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
-
+<h3 align="center">PayUp Backend</h3>
+<p>⚠️⚠️WORK IN PROGRESS⚠️⚠️</p>
   <p align="center">
     project_description
     <br />
