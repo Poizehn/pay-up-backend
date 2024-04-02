@@ -3,5 +3,5 @@ import "dotenv/config";
 console.log(process.env.TEST);
 
 export function hello() {
-	return "Hello World!";
+  return "Hello World!";
 }

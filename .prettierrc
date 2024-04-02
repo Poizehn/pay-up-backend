@@ -1,3 +1,9 @@
 {
-	"useTabs": true
+	"useTabs": true,
+	"overrides": [
+		{
+			"files": ".eslintrc",
+			"options": { "trailingComma": "none" }
+		}
+	]
 }
